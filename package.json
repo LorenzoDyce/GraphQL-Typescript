@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/graphql": "^14.2.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.4.2",
     "graphql-yoga": "^1.18.0",
     "reflect-metadata": "^0.1.13",
